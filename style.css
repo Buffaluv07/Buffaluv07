@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-    font-size: 4em; 
+    font-size: 6em; 
     margin-bottom: 10px;
     color: #2c3e50;
     text-transform: uppercase; 
@@ -71,3 +71,4 @@ a.resume-link:active, a.main-page-link:active {
     outline: none;
     box-shadow: 0 0 0 2px rgba(231, 76, 60, 0.5);
 }
+
